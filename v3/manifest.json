@@ -1,0 +1,82 @@
+[
+  {
+    "file": "CREDITOS.json",
+    "bytes": 2658,
+    "sha256": "2445f521f420ea8115eaf0653806bab4a1677c66721e30bb1629fbd2ca19d26e"
+  },
+  {
+    "file": "CREDITOS.html",
+    "bytes": 3509,
+    "sha256": "423809582f849eb5c5fdc72dd46b0ab29d909381c6e8c4ea8315542ddf1a9eaa"
+  },
+  {
+    "file": "THIRD-PARTY-LICENSES.txt",
+    "bytes": 2189,
+    "sha256": "17e5a6aecd4e421b1ebb411d2de560690041e5218370df781978750333f63115"
+  },
+  {
+    "file": "studio-v3.js",
+    "bytes": 669059,
+    "sha256": "59775f51c65fcdc85d58497e69614deade0921f60bdc90a3866442576d071c20"
+  },
+  {
+    "file": "posters/iluminacion.webp",
+    "bytes": 8692,
+    "sha256": "8948e9e67877c65fc11131f5adee7a0b802dc45027cbf298daff44c4c3efc119"
+  },
+  {
+    "file": "posters/gaming.webp",
+    "bytes": 10022,
+    "sha256": "14c15619ecfe76c040b0807a5dec75e235c777203596083acfe5519829022408"
+  },
+  {
+    "file": "posters/funda.webp",
+    "bytes": 6726,
+    "sha256": "b9d6121b7a71c9018e6a535e041e84e88f00c385ff3a5009a0c2cddb20a08793"
+  },
+  {
+    "file": "posters/kitchen.webp",
+    "bytes": 14568,
+    "sha256": "ef510f2afe016f4c83dbbc095b2ee9d84e670e2d48a3b28cf1ab22cf41a92d62"
+  },
+  {
+    "file": "posters/sofa.webp",
+    "bytes": 8242,
+    "sha256": "2638059cc456e55310fe4ae4733a7607157f80f058eb3632bc524aee05ba8de7"
+  },
+  {
+    "file": "posters/sneaker.webp",
+    "bytes": 7370,
+    "sha256": "56de31206c5bdf54b538f81b364c891b646011af5b599ff1d3c9f22e6e17a50f"
+  },
+  {
+    "file": "models/kettle.glb",
+    "bytes": 555796,
+    "sha256": "56236eadf63d66d0a647ab9a2886aadadc18551d809b773cf014f62a3e8b6f3e"
+  },
+  {
+    "file": "models/sofa.glb",
+    "bytes": 517488,
+    "sha256": "05c0be8c1e060a4f52b987927baad00269b644cecd9686052ce856a513b8067b"
+  },
+  {
+    "file": "models/stove.glb",
+    "bytes": 395156,
+    "sha256": "4d022675f21e34b6f84393a191ba48dc415d9c8990f6a79b8670a750128eac20"
+  },
+  {
+    "file": "models/pc.glb",
+    "bytes": 1561224,
+    "sha256": "bdd13bb82c3b51627ef44fb986e82705dbef4d12fb0976a3605d4ac5b5af31cd"
+  },
+  {
+    "file": "models/phone.glb",
+    "bytes": 1508504,
+    "sha256": "4f56d51a43113c0c548b431318113a286ab3e19b9e81a4892f32c8307c31bdb2"
+  },
+  {
+    "file": "models/shoe.glb",
+    "bytes": 753852,
+    "sha256": "8735bae12edf83e6d7ca8586a54e60cacd0745e5b00ae2201a833faa6e7ffd5e"
+  }
+]
