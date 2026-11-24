@@ -1,0 +1,74 @@
+[
+  {
+    "file": "sofa.glb",
+    "title": "Glam Velvet Sofa",
+    "author": "Eric Chadwick / Wayfair, LLC (2021)",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlamVelvetSofa",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Texturas WebP, geometría Meshopt; escala de demostración y cinco variantes de material."
+  },
+  {
+    "file": "phone.glb",
+    "title": "Apple iPhone 15 Pro Max Black",
+    "author": "polyman / Polyman_3D",
+    "source": "https://sketchfab.com/3d-models/apple-iphone-15-pro-max-black-df17520841214c1792fb8a44c6783ee7",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Copia obtenida del repositorio quentin-pla/phone-mockup-studio. Autor y licencia tomados de asset.extras del GLB (su tabla CREDITS difiere). Mallas agrupadas y comprimidas; funda conceptual original añadida por Growbe."
+  },
+  {
+    "file": "pc.glb",
+    "title": "Gaming Desktop PC",
+    "author": "Yolala1232",
+    "source": "https://sketchfab.com/3d-models/gaming-desktop-pc-d1d8282c9916438091f11aeb28787b66",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Copia distribuida en adrianhajdin/project_3D_developer_portfolio, con license.txt. Equipos separados, cables de conexión retirados, geometría agrupada y texturas comprimidas. Escritorio original de Growbe."
+  },
+  {
+    "file": "shoe.glb",
+    "title": "Materials Variants Shoe",
+    "author": "Shopify (2021)",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Tres variantes originales. Texturas WebP y geometría Meshopt; duplicación especular para mostrar un par."
+  },
+  {
+    "file": "stove.glb",
+    "title": "Electric Stove",
+    "author": "Kuutti Siitonen / Poly Haven",
+    "source": "https://polyhaven.com/a/electric_stove",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Texturas WebP y Meshopt; control de apertura de puerta añadido."
+  },
+  {
+    "file": "kettle.glb",
+    "title": "Vintage Electric Kettle",
+    "author": "SV Garip / Poly Haven",
+    "source": "https://polyhaven.com/a/vintage_electric_kettle",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Texturas WebP y geometría Meshopt; escala y ubicación adaptadas a la demostración."
+  },
+  {
+    "file": "shirt.glb",
+    "title": "Standard T-shirt",
+    "author": "Pieter Ferreira",
+    "source": "https://sketchfab.com/3d-models/standard-t-shirt-1815c01895bd4538bc0bd05c3394698d",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Modelo limpio reutilizado desde Full Liso; mallas auxiliares retiradas, geometría Meshopt. Colores y proyección de estampa añadidos por Growbe."
+  },
+  {
+    "file": "ear.glb",
+    "title": "Outer ear anatomy",
+    "author": "Z-Anatomy; BodyParts3D © The Database Center for Life Science; adaptación OrganUI",
+    "source": "https://github.com/organui/ear-3d",
+    "license": "CC BY-SA 4.0; contribuciones subyacentes BodyParts3D CC BY-SA 2.1 Japan",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Extraídas siete superficies exteriores, comprimidas con Meshopt. La superficie se une y suaviza en ejecución. Esta adaptación anatómica se distribuye bajo CC BY-SA 4.0; los aros conceptuales son geometría original independiente."
+  }
+]

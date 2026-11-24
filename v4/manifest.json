@@ -1,0 +1,177 @@
+[
+  {
+    "file": "CREDITOS.html",
+    "bytes": 4904,
+    "gzip_bytes": 2082
+  },
+  {
+    "file": "CREDITOS.json",
+    "bytes": 3745,
+    "gzip_bytes": 1352
+  },
+  {
+    "file": "THIRD_PARTY_LICENSES.txt",
+    "bytes": 2674,
+    "gzip_bytes": 1014
+  },
+  {
+    "file": "images/belleza-small.webp",
+    "bytes": 22600,
+    "gzip_bytes": 22628
+  },
+  {
+    "file": "images/belleza.webp",
+    "bytes": 110220,
+    "gzip_bytes": 110273
+  },
+  {
+    "file": "images/cocina-small.webp",
+    "bytes": 39726,
+    "gzip_bytes": 39759
+  },
+  {
+    "file": "images/cocina.webp",
+    "bytes": 189248,
+    "gzip_bytes": 189326
+  },
+  {
+    "file": "images/growbe-logo.webp",
+    "bytes": 19526,
+    "gzip_bytes": 19554
+  },
+  {
+    "file": "images/hogar-small.webp",
+    "bytes": 32998,
+    "gzip_bytes": 33031
+  },
+  {
+    "file": "images/hogar.webp",
+    "bytes": 167122,
+    "gzip_bytes": 167195
+  },
+  {
+    "file": "images/maniqui.webp",
+    "bytes": 24580,
+    "gzip_bytes": 24608
+  },
+  {
+    "file": "images/moda-small.webp",
+    "bytes": 15812,
+    "gzip_bytes": 15835
+  },
+  {
+    "file": "images/moda.webp",
+    "bytes": 91860,
+    "gzip_bytes": 91908
+  },
+  {
+    "file": "images/tecnologia-small.webp",
+    "bytes": 15564,
+    "gzip_bytes": 15587
+  },
+  {
+    "file": "images/tecnologia.webp",
+    "bytes": 70290,
+    "gzip_bytes": 70333
+  },
+  {
+    "file": "models/ear.glb",
+    "bytes": 29608,
+    "gzip_bytes": 19992
+  },
+  {
+    "file": "models/kettle.glb",
+    "bytes": 555796,
+    "gzip_bytes": 509779
+  },
+  {
+    "file": "models/pc.glb",
+    "bytes": 1561224,
+    "gzip_bytes": 1117179
+  },
+  {
+    "file": "models/phone.glb",
+    "bytes": 1508504,
+    "gzip_bytes": 1197938
+  },
+  {
+    "file": "models/shirt.glb",
+    "bytes": 106792,
+    "gzip_bytes": 71677
+  },
+  {
+    "file": "models/shoe.glb",
+    "bytes": 753852,
+    "gzip_bytes": 703647
+  },
+  {
+    "file": "models/sofa.glb",
+    "bytes": 517488,
+    "gzip_bytes": 502552
+  },
+  {
+    "file": "models/stove.glb",
+    "bytes": 395156,
+    "gzip_bytes": 329589
+  },
+  {
+    "file": "posters/apartment.webp",
+    "bytes": 15970,
+    "gzip_bytes": 15464
+  },
+  {
+    "file": "posters/bracelet.webp",
+    "bytes": 12084,
+    "gzip_bytes": 11543
+  },
+  {
+    "file": "posters/ear.webp",
+    "bytes": 7942,
+    "gzip_bytes": 7291
+  },
+  {
+    "file": "posters/necklace.webp",
+    "bytes": 11288,
+    "gzip_bytes": 10844
+  },
+  {
+    "file": "posters/shirt.webp",
+    "bytes": 3774,
+    "gzip_bytes": 3259
+  },
+  {
+    "file": "showroom-v4.js",
+    "bytes": 126113,
+    "gzip_bytes": 45152
+  },
+  {
+    "file": "src/events.js",
+    "bytes": 7545,
+    "gzip_bytes": 3079
+  },
+  {
+    "file": "src/studio.js",
+    "bytes": 40493,
+    "gzip_bytes": 13859
+  },
+  {
+    "file": "src/tools.js",
+    "bytes": 33007,
+    "gzip_bytes": 12692
+  },
+  {
+    "file": "src/universes.css",
+    "bytes": 52803,
+    "gzip_bytes": 11535
+  },
+  {
+    "file": "src/universes.js",
+    "bytes": 27859,
+    "gzip_bytes": 11079
+  },
+  {
+    "file": "studio-v4.js",
+    "bytes": 693474,
+    "gzip_bytes": 181610
+  }
+]
